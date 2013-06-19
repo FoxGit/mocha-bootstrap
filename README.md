@@ -3,7 +3,7 @@ Mocha Bootstrap
 
 Description
 -----------
-Mocha Bootstrap demonstrates how to create Mocha tests with Require.js and Node.js.
+Mocha Bootstrap demonstrates how to create server side Mocha tests with Require.js and Node.js.
 There was precious little documentation on how to get this done, so I figured out how
 to do it through sheer will and determination.
 
@@ -20,12 +20,9 @@ $ cd mocha-bootstrap
 $ npm install
 ```
 
-Run browser version:
-`localhost/mocha-bootstrap/index.html`
-
-Run node version:
+Run node tests:
 ```
-$ node node_runner
+$ npm test
 ```
 
 License
