@@ -1,18 +1,17 @@
 Mocha Bootstrap
 ===============
 
+Forked from `https://github.com/clubajax/mocha-bootstrap.git` to integrate with `grunt-mocha-test` for coverage reports
+
 Description
 -----------
 Mocha Bootstrap demonstrates how to create server side Mocha tests with Require.js and Node.js.
-There was precious little documentation on how to get this done, so I figured out how
-to do it through sheer will and determination.
-
 
 Installation
 ------------
 
-Install mocha-bootstrap
-`git clone git://github.com/clubajax/mocha-bootstrap.git mocha-bootstrap`
+Install fork of mocha-bootstrap
+`git clone git://github.com/pghalliday/mocha-bootstrap.git mocha-bootstrap`
 
 Install dependencies
 ```

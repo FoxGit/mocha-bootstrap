@@ -1,3 +1,2 @@
-global.requirejs = require('requirejs');
-global.chai = require('chai');
-global.window = global;
+requirejs = require('requirejs');
+chai = require('chai');

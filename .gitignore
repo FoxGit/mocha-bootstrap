@@ -3,3 +3,4 @@
 Berksfile.lock
 .vagrant
 lib-cov
+coverage.html
