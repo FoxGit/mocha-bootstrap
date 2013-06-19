@@ -1,7 +1,7 @@
 Mocha Bootstrap
 ===============
 
-[![Build Status](https://travis-ci.org/pghalliday/mocha-bootstrap.png)](https://travis-ci.org/pghalliday/mocha-bootstrap)
+[![Build Status](https://travis-ci.org/pghalliday/mocha-bootstrap.png?branch=origin)](https://travis-ci.org/pghalliday/mocha-bootstrap)
 [![Dependency Status](https://gemnasium.com/pghalliday/mocha-bootstrap.png)](https://gemnasium.com/pghalliday/mocha-bootstrap)
 
 Forked from `https://github.com/clubajax/mocha-bootstrap.git` to integrate with `grunt-mocha-test` for coverage reports
