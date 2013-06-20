@@ -14,18 +14,17 @@ module.exports = (grunt) ->
       test:
         options: 
           reporter: 'spec'
-          require: 'globals'
-        src: ['lib-cov/lib/test/**/*.js']
+        src: ['lib-cov/lib/test/nodeTestStarter.js']
       report:
         options: 
           reporter: 'html-cov'
           quiet: true
-        src: ['lib-cov/lib/test/**/*.js']
+        src: ['lib-cov/lib/test/nodeTestStarter.js']
         dest: 'coverage.html'
       coverage:
         options:
           reporter: 'travis-cov'
-        src: ['lib-cov/lib/test/**/*.js']
+        src: ['lib-cov/lib/test/nodeTestStarter.js']
 
   grunt.loadNpmTasks 'grunt-contrib-clean'
   grunt.loadNpmTasks 'grunt-blanket'
