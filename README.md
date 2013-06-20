@@ -14,7 +14,7 @@ Installation
 ------------
 
 Install fork of mocha-bootstrap
-`git clone git://github.com/pghalliday/mocha-bootstrap.git mocha-bootstrap`
+`git clone git://github.com/FoxGit/mocha-bootstrap.git mocha-bootstrap`
 
 Install dependencies
 ```
